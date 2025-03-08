@@ -1,5 +1,3 @@
-
-Set-Alias lvim 'C:\Users\sound\.local\bin\lvim.ps1'
 Invoke-Expression (& { (zoxide init powershell | Out-String) })
 
 function y {
