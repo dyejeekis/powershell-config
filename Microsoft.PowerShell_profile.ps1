@@ -9,3 +9,5 @@ function y {
     }
     Remove-Item -Path $tmp
 }
+
+Set-Alias lg Lazygit
