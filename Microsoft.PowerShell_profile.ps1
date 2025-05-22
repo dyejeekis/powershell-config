@@ -11,3 +11,5 @@ function y {
 }
 
 Set-Alias lg Lazygit
+
+Set-Alias vim nvim
